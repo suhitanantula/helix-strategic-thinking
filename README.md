@@ -19,7 +19,22 @@ Every skill links back to the book chapter it came from — so you can go deeper
 
 ## Quick Start
 
-### Installation via Claude Code Plugin
+### One-Command Install (Recommended)
+
+```bash
+git clone https://github.com/suhitanantula/helix-strategic-thinking.git
+cd helix-strategic-thinking
+./install.sh              # Installs to both Claude Code + Hermes
+./install.sh --claude     # Claude Code only
+./install.sh --hermes     # Hermes only
+./install.sh --uninstall  # Remove from both
+```
+
+This installs all 22 skills as a **single package** under:
+- `~/.claude/skills/helix-strategic-thinking/` (Claude Code)
+- `~/.hermes/skills/helix-strategic-thinking/` (Hermes)
+
+### Manual Installation
 
 ```bash
 # Clone the repository
