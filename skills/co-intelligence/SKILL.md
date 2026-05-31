@@ -13,7 +13,7 @@ Two rules anchor the approach (from Ethan Mollick): (1) Always invite AI to the 
 
 **Core Principle:** Experiment. Prompt. Learn. Reflect. AI isn't the end of human creativity — it's the beginning of amplified imagination.
 
-**Book Source:** [The Helix Moment, Chapter 6: Co-Intelligence](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 6: Co-Intelligence](https://suhitanantula.com/books/helix-moment/chapter-06-collaborating-with-ai-co-intelligence)
 
 ## When to Use
 

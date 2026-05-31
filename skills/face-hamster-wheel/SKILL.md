@@ -15,7 +15,7 @@ The Hamster Wheel is the face of temporal reactivity — the state where everyon
 
 **Core Pattern:** ●●● — Reactive loops without strategic direction
 
-**Book Source:** [The Helix Moment, Chapter 11](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 11](https://suhitanantula.com/books/helix-moment/chapter-12-face-4-the-hamster-wheel)
 
 ## When to Use
 

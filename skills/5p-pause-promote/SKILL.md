@@ -14,7 +14,7 @@ When facing abundance, design for discernment. Not just better decisions or fast
 **Rhythm Mode:** ●〰 Loops + Vibes (combined primary) — iterative filtering with intuitive resonance
 **Co-Intelligence:** ●〰 Discernment intelligence — values frameworks, cultural context, and intuitive judgement (human) combined with processing vast option spaces, pattern detection, and consistency maintenance (AI)
 
-**Book Source:** [The Helix Moment, Chapter 22](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 22](https://suhitanantula.com/books/helix-moment/chapter-22-pause-promote-choose-what-matters)
 
 ## When to Use
 

@@ -223,4 +223,4 @@ The Seven Faces Diagnostic is an entry point that routes to deeper frameworks:
 
 *The Seven Faces of Strategic Dysfunction is based on *The Helix Moment* (Chapters 08–15). Framework references: LLV (Lines ▲ · Loops ● · Vibes 〰), SAFE Strategy Principles, and the 5Ps Processes.*
 
-**Book Source:** [The Helix Moment, Chapters 08–15](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapters 08–15](https://suhitanantula.com/books/helix-moment/chapter-08-strategy-in-crisis-the-seven-faces-of-strategic-d)

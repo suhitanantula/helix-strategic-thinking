@@ -13,7 +13,7 @@ The Co-Intelligent Organisation framework defines four archetypes of how organis
 
 **Core Principle:** Design for human-AI collaboration, not AI automation. The goal is organisations where human and artificial intelligence amplify each other naturally — making the whole smarter than either part could be alone.
 
-**Book Source:** [The Helix Moment, Chapter 29: The Co-Intelligent Organisation](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 29: The Co-Intelligent Organisation](https://suhitanantula.com/books/helix-moment/chapter-29-the-co-intelligent-organisation)
 
 ## When to Use
 

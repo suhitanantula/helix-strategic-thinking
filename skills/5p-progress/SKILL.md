@@ -14,7 +14,7 @@ When facing complexity, design for continuous advancement. Not just better produ
 **Rhythm Mode:** ▲● Lines + Loops (combined primary) — structured advancement through continuous learning
 **Co-Intelligence:** ▲● Learning intelligence — experiential knowledge, contextual understanding, and meaning-making (human) combined with continuous data processing, pattern refinement, and scalable insights (AI)
 
-**Book Source:** [The Helix Moment, Chapter 23](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 23](https://suhitanantula.com/books/helix-moment/chapter-23-progress-build-learning-systems)
 
 ## When to Use
 

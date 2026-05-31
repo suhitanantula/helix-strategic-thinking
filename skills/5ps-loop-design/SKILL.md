@@ -11,7 +11,7 @@ The 5Ps of Loop Design is a strategic design approach where each P activates a s
 
 The real power emerges when the 5Ps work together as an integrated system — a co-intelligence engine where strategy and design strengthen each other within the Helix. When the 5Ps operate as an integrated system, they embody the Helix in action: strategy and design continuously informing each other, strengthened by AI collaboration, creating adaptive capability that responds to changing conditions while maintaining human wisdom and values.
 
-**Book Source:** [The Helix Moment, Chapters 18–25](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapters 18–25](https://suhitanantula.com/books/helix-moment/chapter-18-the-5ps-of-loop-design)
 
 ## Quick Diagnostic: Which P Do You Need?
 

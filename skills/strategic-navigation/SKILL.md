@@ -13,7 +13,7 @@ Each domain maps to a specific Lines-Loops-Vibes rhythm mode and a specific AI r
 
 **Core Principle:** What works depends on what you're facing, who you're with, and where you are in the rhythm of the work. Match the approach to the knowledge domain.
 
-**Book Source:** [The Helix Moment, Chapter 7: The Strategic Navigation Challenge](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 7: The Strategic Navigation Challenge](https://suhitanantula.com/books/helix-moment/chapter-07-the-strategic-navigation-challenge)
 
 ## When to Use
 

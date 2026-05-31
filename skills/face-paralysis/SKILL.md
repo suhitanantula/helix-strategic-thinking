@@ -15,7 +15,7 @@ The Paralysis is the face of cognitive overwhelm — the state where organisatio
 
 **Core Pattern:** 〰〰〰 — Scattered sensing without convergence
 
-**Book Source:** [The Helix Moment, Chapter 08](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 08](https://suhitanantula.com/books/helix-moment/chapter-09-face-1-the-paralysis)
 
 ## When to Use
 

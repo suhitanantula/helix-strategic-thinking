@@ -13,7 +13,7 @@ The EEE layer is a design checkpoint framework that ensures sustainable value cr
 
 **Core Principle:** Every design choice embodies values, creates feelings, and enables futures. Strategy that ignores any of these three dimensions creates fragile, hollow, or harmful outcomes.
 
-**Book Source:** [The Helix Moment, Chapter 27: The EEE Layer](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 27: The EEE Layer](https://suhitanantula.com/books/helix-moment/chapter-27-the-eee-layer-a-new-design-dimension-for-the-ai-a)
 
 ## When to Use
 

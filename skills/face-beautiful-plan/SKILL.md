@@ -15,7 +15,7 @@ The Beautiful Plan is the face of process disconnection — the state where the 
 
 **Core Pattern:** ▲▲▲ — Rigid structure disconnected from reality
 
-**Book Source:** [The Helix Moment, Chapter 09](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 09](https://suhitanantula.com/books/helix-moment/chapter-10-face-2-the-beautiful-plan)
 
 ## When to Use
 

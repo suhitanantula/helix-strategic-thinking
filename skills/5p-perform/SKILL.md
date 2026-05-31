@@ -14,7 +14,7 @@ When you have clarity, move decisively. Not tentatively. Not experimentally. Wit
 **Rhythm Mode:** ▲ Lines (primary), with ● Loops integration and 〰 Vibes awareness
 **Co-Intelligence:** ▲ Execution intelligence — strategic direction and ethical boundaries (human) combined with execution at scale, real-time learning, and optimisation (AI)
 
-**Book Source:** [The Helix Moment, Chapter 20](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 20](https://suhitanantula.com/books/helix-moment/chapter-20-perform-move-with-intention)
 
 ## When to Use
 

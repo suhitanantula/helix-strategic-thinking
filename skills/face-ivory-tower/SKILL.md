@@ -15,7 +15,7 @@ The Ivory Tower is the face of organisational fragmentation — the state where 
 
 **Core Pattern:** ▲ 〰 ● — Fragmented rhythms across organisational levels
 
-**Book Source:** [The Helix Moment, Chapter 10](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 10](https://suhitanantula.com/books/helix-moment/chapter-11-face-3-the-ivory-tower)
 
 ## When to Use
 

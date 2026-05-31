@@ -14,7 +14,7 @@ When facing uncertainty, design for anti-fragility. Not just resilience or robus
 **Rhythm Mode:** ● Loops (primary), with ▲ Lines integration and 〰 Vibes awareness
 **Co-Intelligence:** ● Adaptive resilience — strategic guardrails and value definitions (human) combined with parallel exploration, testing, and continuous generation (AI)
 
-**Book Source:** [The Helix Moment, Chapter 21](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 21](https://suhitanantula.com/books/helix-moment/chapter-21-portfolio-designing-for-anti-fragility)
 
 ## When to Use
 

@@ -14,7 +14,7 @@ Design begins with perception — with how we see. Perception must come from rhy
 **Rhythm Mode:** 〰 Vibes (primary), with ▲ Lines and ● Loops integration
 **Co-Intelligence:** 〰 Empathetic intelligence — clinical intuition and cultural sensitivity (human) combined with pattern recognition, scale, and anomaly detection (AI)
 
-**Book Source:** [The Helix Moment, Chapter 19](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 19](https://suhitanantula.com/books/helix-moment/chapter-19-perceive-never-forget-the-people)
 
 ## When to Use
 

@@ -166,4 +166,4 @@ Once the organisation can sense and respond at speed, the next risk is AI whipla
 
 *Part of the Seven Faces of Strategic Dysfunction — Face 5 of 7. Start with the [Seven Faces Diagnostic](../seven-faces-diagnostic/SKILL.md) if you're not sure which face applies.*
 
-**Book Source:** [The Helix Moment, Chapter 12](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 12](https://suhitanantula.com/books/helix-moment/chapter-13-face-5-the-whiplash)

@@ -181,4 +181,4 @@ The Safety Dance is the final face — but it's also the meta-condition. Cultura
 
 *Part of the Seven Faces of Strategic Dysfunction — Face 7 of 7. Start with the [Seven Faces Diagnostic](../seven-faces-diagnostic/SKILL.md) if you're not sure which face applies.*
 
-**Book Source:** [The Helix Moment, Chapter 14](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 14](https://suhitanantula.com/books/helix-moment/chapter-15-face-7-the-safety-dance)

@@ -13,7 +13,7 @@ LLV is not a maturity curve or ladder. You don't "graduate" from Lines to Vibes.
 
 **Core Principle:** Not a prescription — a pulse. Diagnose the rhythm your context demands, then orchestrate accordingly.
 
-**Book Source:** [The Helix Moment, Chapter 5: Lines-Loops-Vibes](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 5: Lines-Loops-Vibes](https://suhitanantula.com/books/helix-moment/chapter-05-lines-loops-vibes-the-philosophy-of-movement)
 
 ## When to Use
 

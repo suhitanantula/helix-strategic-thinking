@@ -13,7 +13,7 @@ AI in the Loop operationalises the Co-Intelligence philosophy into four concrete
 
 **Core Principle:** The human role is 〰 Meaning-Maker — providing context, judgement, quality, wisdom, ethics, and emotional nuance. Everything else can be amplified, mirrored, partnered, or delegated.
 
-**Book Source:** [The Helix Moment, Chapter 28: AI in the Loop](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 28: AI in the Loop](https://suhitanantula.com/books/helix-moment/chapter-28-ai-in-the-loop)
 
 ## When to Use
 

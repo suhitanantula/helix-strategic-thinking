@@ -179,4 +179,4 @@ Even with AI clarity, organisations can stall if risk aversion prevents bold act
 
 *Part of the Seven Faces of Strategic Dysfunction — Face 6 of 7. Start with the [Seven Faces Diagnostic](../seven-faces-diagnostic/SKILL.md) if you're not sure which face applies.*
 
-**Book Source:** [The Helix Moment, Chapter 13](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 13](https://suhitanantula.com/books/helix-moment/chapter-14-face-6-the-ai-fog)

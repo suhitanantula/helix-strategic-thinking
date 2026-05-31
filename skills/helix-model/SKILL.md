@@ -13,7 +13,7 @@ Strategy treated as a static product is a relic. The Helix blends the coherence 
 
 **Core Principle:** Strategy and design are not separate phases — they are two strands of the same DNA, spiralling upward together.
 
-**Book Source:** [The Helix Moment, Chapter 2: The Helix Model](https://suhitanantula.com/books/helix-moment)
+**Book Source:** [The Helix Moment, Chapter 2: The Helix Model](https://suhitanantula.com/books/helix-moment/chapter-02-the-helix-strategy-design-in-motion)
 
 ## When to Use
 
