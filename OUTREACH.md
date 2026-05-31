@@ -46,13 +46,13 @@
 - **Why:** Author of *The Microstructure of Organizations*. Research on AI's impact on organisations. Teaches MBA strategy.
 - **Personal hook:** "Your org design work and AI research — the 5Ps of Loop Design offers a practical tool for designing org-AI interfaces."
 
-### 9. Sameer Srivastava — UC Berkeley / Haas
-- **Email:** sameer.srivastava@haas.berkeley.edu
-- **Why:** Uses computational methods to study organisational culture and strategic behaviour. Strategy + AI intersection.
+### 5. Sameer Srivastava — UC Berkeley / Haas
+- **Email:** sameersriv@berkeley.edu *(corrected from haas subdomain)*
+- **Why:** Uses computational methods to study organisational culture and strategic behaviour. Mid-career. Sits at the intersection of strategy and data/AI. Likely to be interested in AI-powered tools for strategy education.
 - **Personal hook:** "You use AI to study culture — our Vibes rhythm mode does the same from a practitioner angle."
 
 ### 10. Aaron Chatterji — Duke / Fuqua
-- **Email:** r.chatterji@duke.edu
+- **Email:** ronnie.chatterji@duke.edu *(corrected — he publishes as Aaron "Ronnie" Chatterji)*
 - **Why:** Former Chief Economist at U.S. Dept of Commerce (AI/chips policy). Teaches strategy + tech. Real-world AI policy credentials.
 - **Personal hook:** "Having shaped AI policy, you'd have an interesting perspective on whether frameworks like these help or hinder."
 
@@ -76,7 +76,7 @@
 - **Personal hook:** "Your work on strategic flexibility is exactly what the Helix rhythms system addresses — matching flexibility mode to environment."
 
 ### 14. Melissa Schilling — NYU Stern
-- **Email:** mschilli@stern.nyu.edu
+- **Email:** mas28@stern.nyu.edu *(corrected — her CV header shows mschilli but faculty bio uses mas28)*
 - **Why:** Author of *Strategic Management of Technological Innovation* (widely-used textbook). Platform ecosystems.
 - **Personal hook:** "Your textbook is used in the exact courses where these skills would be most useful — would you consider them as teaching tools?"
 
@@ -138,9 +138,9 @@
 - **Why:** Associate Professor. Teaches digital disruption and competitive dynamics.
 - **Personal hook:** "Your work on incumbents vs entrants in digital markets — the Whiplash face captures exactly this dynamic."
 
-### 25. Gerry George — Singapore Management University
-- **Email:** gerrygeorge@smu.edu.sg
-- **Why:** Dean at SMU. Innovation and entrepreneurship in Asia. Connected across the Asian business school network.
+### 25. Gerry George — Singapore Management University / IMU Malaysia
+- **Email:** ggeorge@smu.edu.sg *(SMU visiting) or gerardgeorge@imu.edu.my *(IMU primary)* *(corrected)*
+- **Why:** Visiting Professor at SMU. Now Group MD at International Medical University Malaysia. Innovation and entrepreneurship in Asia. Connected across the Asian business school network.
 - **Personal hook:** "Singapore hub for Asian strategy — these frameworks were designed to be culturally adaptable. Would they work in an Asian MBA context?"
 
 ---
