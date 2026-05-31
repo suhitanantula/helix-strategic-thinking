@@ -1,0 +1,28 @@
+{
+  "name": "helix-strategic-thinking",
+  "description": "Original strategic thinking frameworks from The Helix Moment — the Helix Model, Lines-Loops-Vibes, Seven Faces of Strategic Dysfunction, 5Ps of Loop Design, EEE Layer, and Co-Intelligence. For AI-assisted strategy and design.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Suhit Anantula",
+    "url": "https://suhitanantula.com"
+  },
+  "homepage": "https://suhitanantula.com/books/helix-moment",
+  "repository": "https://github.com/suhitanantula/helix-strategic-thinking",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "strategy",
+    "design-thinking",
+    "helix",
+    "co-intelligence",
+    "strategic-thinking",
+    "rhythm",
+    "loop-design",
+    "lines-loops-vibes",
+    "seven-faces",
+    "5ps",
+    "eee-layer",
+    "ai-strategy",
+    "organisational-design",
+    "systems-thinking"
+  ]
+}
