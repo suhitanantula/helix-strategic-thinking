@@ -1,6 +1,6 @@
 ---
 name: face-whiplash
-description: Face 5: The Whiplash (▲ vs 〰●) — Static strategy colliding with dynamic environment. Diagnose when strategy keeps changing direction. Solution: OODA Loop.
+description: "Face 5: The Whiplash (▲ vs 〰●) — Static strategy colliding with dynamic environment. Diagnose when strategy keeps changing direction. Solution: OODA Loop."
 ---
 
 # Face 5: The Whiplash — The World Is Changing Too Fast

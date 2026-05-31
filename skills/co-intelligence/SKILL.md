@@ -1,6 +1,6 @@
 ---
 name: co-intelligence
-description: Human + AI rhythmic partnership — amplify, mirror, partner, and extend. Use when designing how humans and AI should collaborate on strategic and design work.
+description: "Human + AI rhythmic partnership — amplify, mirror, partner, and extend. Use when designing how humans and AI should collaborate on strategic and design work."
 ---
 
 # Co-Intelligence: Human + AI Rhythmic Partnership

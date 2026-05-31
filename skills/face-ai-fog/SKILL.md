@@ -1,6 +1,6 @@
 ---
 name: face-ai-fog
-description: Face 6: The AI Fog (〰●▲?) — Disconnected AI capabilities without strategic integration. Diagnose when AI pilots don't connect to strategy. Solution: Lean Strategy + Co-Intelligence.
+description: "Face 6: The AI Fog (〰●▲?) — Disconnected AI capabilities without strategic integration. Diagnose when AI pilots don't connect to strategy. Solution: Lean Strategy + Co-Intelligence."
 ---
 
 # Face 6: The AI Fog — We're Unsure How to Use AI in Strategy

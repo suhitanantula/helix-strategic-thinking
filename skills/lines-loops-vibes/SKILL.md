@@ -1,6 +1,6 @@
 ---
 name: lines-loops-vibes
-description: Three Rhythms of Organisational Intelligence — ▲ Lines (structured), ● Loops (adaptive), 〰 Vibes (emergent). Use to diagnose rhythm mismatches and design the right mode for the situation.
+description: "Three Rhythms of Organisational Intelligence — ▲ Lines (structured), ● Loops (adaptive), 〰 Vibes (emergent). Use to diagnose rhythm mismatches and design the right mode for the situation."
 ---
 
 # Lines-Loops-Vibes: Three Rhythms of Organisational Intelligence

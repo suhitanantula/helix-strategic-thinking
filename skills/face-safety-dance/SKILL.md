@@ -1,6 +1,6 @@
 ---
 name: face-safety-dance
-description: Face 7: The Safety Dance (▲▲▲) — Cultural risk aversion blocking innovation. Diagnose when organisations protect the status quo. Solution: Platform Strategy + Innovation Portfolio.
+description: "Face 7: The Safety Dance (▲▲▲) — Cultural risk aversion blocking innovation. Diagnose when organisations protect the status quo. Solution: Platform Strategy + Innovation Portfolio."
 ---
 
 # Face 7: The Safety Dance — We Want Innovation But Keep Playing It Safe

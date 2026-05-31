@@ -1,6 +1,6 @@
 ---
 name: ai-in-the-loop
-description: Four human-AI collaboration modes (Amplifier, Mirror, Partner, Capability) plus the Human-AI Spiral process. Use when designing how AI integrates into strategic workflows.
+description: "Four human-AI collaboration modes (Amplifier, Mirror, Partner, Capability) plus the Human-AI Spiral process. Use when designing how AI integrates into strategic workflows."
 ---
 
 # AI in the Loop: Developing Intuitive Intelligence for Human-AI Collaboration
@@ -103,6 +103,14 @@ AI in the Loop is itself the operational AI integration framework. The key integ
 - **Developing AI Intuition:** Energy Matching (invest AI effort proportional to problem significance), Prompt Intuition (develop a feel for which framings produce generative output), Quality Sensing (cultivate an intuitive sense for when AI output is genuinely insightful vs. plausible-sounding).
 - **Choosing the Right Mode:** Overwhelmed → Amplifier. Stuck → Mirror. Exploring → Partner. Executing → Capability. When in doubt, start with Mirror to diagnose.
 - **Building the Spiral:** Don't treat AI interactions as one-shot queries. Build spiralling conversations where each exchange deepens understanding. The spiral effect is what separates co-intelligence from tool use.
+
+## Pitfalls to Avoid
+
+- **Defaulting to one mode for everything.** Each challenge needs a different collaboration mode — using Amplifier when you're stuck won't help. Start with Mirror to diagnose, then shift deliberately.
+- **Treating AI as a one-shot answer engine.** The value is in the spiral, not the single response. If you're not iterating and deepening, you're using AI as a search engine, not a thinking partner.
+- **Outsourcing judgement to AI.** AI generates options; humans select, refine, and apply meaning. If the human stops being the Meaning-Maker, the output becomes plausible but hollow.
+- **Ignoring Quality Sensing.** Not all AI output is equally valuable. Failing to distinguish generative insights from mechanically plausible text leads to mediocre decisions dressed up as data-driven ones.
+- **Skipping EEE checks on AI output.** AI can produce ethically blind, emotionally tone-deaf, or creatively flat results. Always run Ethics, Emotion, and Emergence checks before integrating AI-generated work.
 
 ## Verification Checklist
 

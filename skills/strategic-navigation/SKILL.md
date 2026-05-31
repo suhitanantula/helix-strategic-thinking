@@ -1,6 +1,6 @@
 ---
 name: strategic-navigation
-description: Map Rumsfeld's known/unknown matrix to Lines-Loops-Vibes. Use when choosing the right approach for known knowns (Lines), known unknowns (Loops), or unknown unknowns (Vibes).
+description: "Map Rumsfeld's known/unknown matrix to Lines-Loops-Vibes. Use when choosing the right approach for known knowns (Lines), known unknowns (Loops), or unknown unknowns (Vibes)."
 ---
 
 # Strategic Navigation: Mapping Knowledge Domains to Rhythmic Response

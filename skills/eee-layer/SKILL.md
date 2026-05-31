@@ -1,6 +1,6 @@
 ---
 name: eee-layer
-description: Ethics, Emotion, Emergence — the missing third layer beyond Logic and Action. Where human wisdom concentrates when AI handles logic and execution. Use for responsible AI strategy and values-based design.
+description: "Ethics, Emotion, Emergence — the missing third layer beyond Logic and Action. Where human wisdom concentrates when AI handles logic and execution. Use for responsible AI strategy and values-based design."
 ---
 
 # EEE Layer: Ethics, Emotion, Emergence
@@ -107,6 +107,14 @@ The EEE layer defines the boundary of responsible AI collaboration. AI can serve
 - **AI as Emergence Partner:** Scenario generation for unexpected possibilities, cross-domain pattern recognition, simulation of evolutionary pathways. But humans choose which emergent patterns to amplify — AI generates possibilities, humans provide wisdom.
 
 **Critical boundary:** AI can augment EEE thinking but cannot replace it. Ethics requires human values. Emotion requires human experience. Emergence requires human judgment about which futures to cultivate. The EEE layer is where human wisdom is most irreplaceable.
+
+## Pitfalls to Avoid
+
+- **Reducing Ethics to a compliance checklist.** Asking "Is this legal?" instead of "What kind of world are we creating?" turns strategic navigation into a box-ticking exercise that misses systemic harms.
+- **Treating Emotion as irrational or secondary.** Dismissing gut instincts, team energy, or user feelings as "soft" discards some of the most predictive strategic information available.
+- **Confusing Emergence with unpredictability and giving up.** Emergence isn't chaos — it's design for evolution. Saying "we can't predict it anyway" is an abdication of the enable-don't-control principle.
+- **Applying the three lenses in isolation.** Ethics without Emotion can be cold and rigid. Emotion without Ethics can be manipulative. Emergence without Ethics can enable harmful trajectories. The Integration step exists for a reason.
+- **Delegating EEE judgment entirely to AI.** AI can detect bias patterns and sentiment, but values, meaning, and wisdom are irreplaceably human. If AI replaces EEE thinking rather than augmenting it, the framework collapses.
 
 ## Verification Checklist
 

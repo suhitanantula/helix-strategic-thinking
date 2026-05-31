@@ -1,6 +1,6 @@
 ---
 name: helix-router
-description: START HERE — Route to the right Helix strategic framework by problem type. Covers the full Helix toolkit: Seven Faces diagnostics, 5Ps of Loop Design, Lines-Loops-Vibes, EEE Layer, and more.
+description: "START HERE — Route to the right Helix strategic framework by problem type. Covers the full Helix toolkit: Seven Faces diagnostics, 5Ps of Loop Design, Lines-Loops-Vibes, EEE Layer, and more."
 ---
 
 # Helix Strategic Thinking Router

@@ -1,6 +1,6 @@
 ---
 name: co-intelligent-organisation
-description: Scale co-intelligence to organisational level with four archetypes (Amplified Specialist, Hybrid Collaborator, Sensing Network, Learning Ecosystem). Use for organisational AI strategy and transformation.
+description: "Scale co-intelligence to organisational level with four archetypes (Amplified Specialist, Hybrid Collaborator, Sensing Network, Learning Ecosystem). Use for organisational AI strategy and transformation."
 ---
 
 # Co-Intelligent Organisation: Scaling Human-AI Intelligence Across the Enterprise
@@ -124,6 +124,14 @@ Co-Intelligent Organisation is itself the AI integration framework at enterprise
 - **Four-Dimension Balance:** Technology adoption without cultural integration fails. Process automation without strategic integration underwhelms. All four dimensions must evolve together.
 - **Rhythmic Deployment:** Different functions operate in different rhythms. Operations (▲ Lines) need systematic AI. Innovation (● Loops) needs experimental AI. Strategy (〰 Vibes) needs sensing AI. Design the co-intelligence to match the rhythm.
 - **Human Development as Infrastructure:** The most important investment isn't technology — it's training humans to collaborate with AI effectively. Bridging roles, shared language, and career paths that value human-AI skills are essential.
+
+## Pitfalls to Avoid
+
+- **Prioritising technology adoption over cultural readiness.** Deploying AI tools without psychological safety, shared language, and learning orientation leads to resistance, shadow AI use, and wasted investment.
+- **Choosing an archetype based on aspiration rather than reality.** A fragmented team cannot become a Learning Ecosystem overnight. Match the archetype to actual organisational maturity, not to where leadership wishes it already was.
+- **Measuring only productivity gains.** Co-intelligence value shows up in collaboration effectiveness, learning velocity, and adaptation capacity — not just time saved. If you only track efficiency metrics, you'll optimise away the deeper benefits.
+- **Neglecting the four-dimension balance.** Technical integration without cultural integration fails. Process automation without strategic integration underwhelms. All four dimensions must evolve together.
+- **Centralising AI strategy in a silo.** An AI Center of Excellence that operates in isolation from frontline teams becomes an ivory tower. Co-intelligence must be built from real workflows, not imposed from above.
 
 ## Verification Checklist
 

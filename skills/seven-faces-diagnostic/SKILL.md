@@ -1,6 +1,6 @@
 ---
 name: seven-faces-diagnostic
-description: START HERE for strategic dysfunction — route to the right Face by symptoms. Diagnose which of the 7 Faces of Strategic Dysfunction your organisation is experiencing.
+description: "START HERE for strategic dysfunction — route to the right Face by symptoms. Diagnose which of the 7 Faces of Strategic Dysfunction your organisation is experiencing."
 ---
 
 # Seven Faces Diagnostic Router

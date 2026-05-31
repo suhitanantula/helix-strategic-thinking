@@ -1,6 +1,6 @@
 ---
 name: helix-model
-description: The Helix Model — Strategy and Design as two intertwining strands spiralling upward. Use when strategy feels static, disconnected from execution, or needs to be a living system not a deck.
+description: "The Helix Model — Strategy and Design as two intertwining strands spiralling upward. Use when strategy feels static, disconnected from execution, or needs to be a living system not a deck."
 ---
 
 # The Helix Model
